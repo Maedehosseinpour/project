@@ -1,0 +1,80 @@
+[
+    {
+      "id": "1",
+      "img": "https://sabzlearn.ir/wp-content/uploads/2024/01/REACTjs.webp",
+      "title": "html آموزش مقدماتی",
+      "sectionCours": "199",
+      "timeCours": "14 ساعت",
+      "calender": "آذر 1402",
+      "master": "بحرالعلوم",
+      "like": "32",
+      "disLike": "2",
+      "priceCourse": "500000",
+      "countStudio": "257"
+    },
+    {
+        "id": "2",
+        "img": "https://sabzlearn.ir/wp-content/uploads/2024/01/REACTjs.webp",
+        "title": "html آموزش مقدماتی",
+        "sectionCours": "199",
+        "timeCours": "14 ساعت",
+        "calender": "آذر 1402",
+        "master": "بحرالعلوم",
+        "like": "32",
+        "disLike": "2",
+        "priceCourse": "500000",
+        "countStudio": "257"
+      },
+      {
+        "id": "3",
+        "img": "https://sabzlearn.ir/wp-content/uploads/2024/01/REACTjs.webp",
+        "title": "html آموزش مقدماتی",
+        "sectionCours": "199",
+        "timeCours": "14 ساعت",
+        "calender": "آذر 1402",
+        "master": "بحرالعلوم",
+        "like": "32",
+        "disLike": "2",
+        "priceCourse": "500000",
+        "countStudio": "257"
+      },
+      {
+        "id": "4",
+        "img": "https://sabzlearn.ir/wp-content/uploads/2024/01/REACTjs.webp",
+        "title": "html آموزش مقدماتی",
+        "sectionCours": "199",
+        "timeCours": "14 ساعت",
+        "calender": "آذر 1402",
+        "master": "بحرالعلوم",
+        "like": "32",
+        "disLike": "2",
+        "priceCourse": "500000",
+        "countStudio": "257"
+      },
+      {
+        "id": "5",
+        "img": "https://sabzlearn.ir/wp-content/uploads/2024/01/REACTjs.webp",
+        "title": "html آموزش مقدماتی",
+        "sectionCours": "199",
+        "timeCours": "14 ساعت",
+        "calender": "آذر 1402",
+        "master": "بحرالعلوم",
+        "like": "32",
+        "disLike": "2",
+        "priceCourse": "500000",
+        "countStudio": "257"
+      },
+      {
+        "id": "6",
+        "img": "https://sabzlearn.ir/wp-content/uploads/2024/01/REACTjs.webp",
+        "title": "html آموزش مقدماتی",
+        "sectionCours": "199",
+        "timeCours": "14 ساعت",
+        "calender": "آذر 1402",
+        "master": "بحرالعلوم",
+        "like": "32",
+        "disLike": "2",
+        "priceCourse": "500000",
+        "countStudio": "257"
+      }
+  ]
